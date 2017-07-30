@@ -1,0 +1,6 @@
+This is a simple game engine with entity, player and enemy classes. BoxCollision class contains algorithm for box based collision detection. Trajectory class contains algorithm to find path of parabolic projectiles. This game engine can be used as a blueprint for developing more complex games.
+
+
+Developer:
+
+Bibhor Chauhan (cbibhor@gmail.com)
